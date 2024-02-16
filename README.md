@@ -6,4 +6,4 @@ A very good course containing HTML, CSS, JavaScript, React and UI design.
 
 | File                                       | Name                           | Description                                                               |
 | ------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------- |
-| [2023-FDCP-cert.pdf](./2023-FDCP-cert.pdf) | Frontend Developer Career Path | A very good course containing HTML, CSS, JavaScript, React and UI design. |
+| [2023-FDCP.pdf](./2023-FDCP.pdf) | Frontend Developer Career Path | A very good course containing HTML, CSS, JavaScript, React and UI design. |
