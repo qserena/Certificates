@@ -5,10 +5,10 @@
 | Name                           | Description                                                               |
 | ------------------------------ | ------------------------------------------------------------------------- |
 | [Frontend Developer Career Path](./2023-FDCP.pdf)  | Fantastic course covering HTML, CSS, JavaScript, React and UI design. Including extra badge "Top Code Reviewer" (Scrimba 2023). |
-| [2023-FDCC.pdf](./2023-FDCC.pdf) | Five Day Coding Challenge | Simple but good challenge to repeat basic web development skills (Code Institute 2023). |
-| [2012-MS.jpg](./2012-MS.jpg) | Programming in HTML5 with Javascript and CSS3 | Microsoft Specialist Certification (Microsoft 2012). |
-| [2008-SM.jpg](./2008-SM.jpg) | Certified Scrum Master | Solid education from the original source of Scrum (Scrum Alliance 2008). |
-| [2005-MCP.jpg](./2005-MCP.jpg) | MCP in Windows Forms, C# .NET | Microsoft Certified Professional (Microsoft 2005). |
-| [2003-ISEB.jpg](./2003-ISEB.jpg) |The Foundation Certificate in Software Testing | Theory and best practice in Software Testing (ISEB 2003). |
-| [2001-SCJD.jpg](./2001-SCJD.jpg) | Sun Certified Java Developer | Java System Development (Sun Microsystems 2001). |
-| [1999-SCJP.jpg](./1999-SCJP.jpg) | Sun Certified Java Programmer | Java Programming (Sun Microsystems 1999). |
+| [Five Day Coding Challenge(./2023-FDCC.pdf) | Simple but good challenge to repeat basic web development skills (Code Institute 2023). |
+| [Programming in HTML5 with Javascript and CSS3](./2012-MS.jpg) | Microsoft Specialist Certification (Microsoft 2012). |
+| [Certified Scrum Master](./2008-SM.jpg) | Solid education from the original source of Scrum (Scrum Alliance 2008). |
+| [ MCP in Windows Forms, C# .NET](./2005-MCP.jpg) | Microsoft Certified Professional (Microsoft 2005). |
+| [The Foundation Certificate in Software Testing](./2003-ISEB.jpg) | Theory and best practice in Software Testing (ISEB 2003). |
+| [Sun Certified Java Developer](./2001-SCJD.jpg) | Java System Development (Sun Microsystems 2001). |
+| [Sun Certified Java Programmer](./1999-SCJP.jpg)  | Java Programming (Sun Microsystems 1999). |
