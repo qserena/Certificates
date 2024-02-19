@@ -1,6 +1,6 @@
 # My Certificates
 
-### My Certificates in numerous programming languages and system development subjects.
+### My Certificates in different programming languages and system development subjects.
 
 | Name                           | Description                                                               |
 | ------------------------------ | ------------------------------------------------------------------------- |
