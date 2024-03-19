@@ -1,6 +1,6 @@
 # My Certificates
 
-### My Certificates in software development areas.
+### My Certificates in software development
 
 | Name                           | Description                                                               |
 | ------------------------------ | ------------------------------------------------------------------------- |
