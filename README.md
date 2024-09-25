@@ -10,5 +10,5 @@
 | [Certified Scrum Master](./2008-SM.jpg) | Solid education from the original source of Scrum (Scrum Alliance 2008). |
 | [ MCP in Windows Forms, C# .NET](./2005-MCP.jpg) | Microsoft Certified Professional (Microsoft 2005). |
 | [The Foundation Certificate in Software Testing](./2003-ISEB.jpg) | Theory and best practice in Software Testing (ISEB 2003). |
-| [Sun Certified Java Developer](./2001-SCJD.jpg) | Java System Development (Sun Microsystems 2001). |
+| [Sun Certified Java Developer](./2001-SCJD.jpg) | Java Software Development (Sun Microsystems 2001). |
 | [Sun Certified Java Programmer](./1999-SCJP.jpg)  | Java Programming (Sun Microsystems 1999). |
